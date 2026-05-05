@@ -38,3 +38,7 @@
 ## 📌 Current Focus
 
 > Improving problem-solving + building real-world projects
+>
+> ## 🐍 Contribution Snake
+
+![snake](https://github.com/soharab102/soharab102-snake/blob/output/github-contribution-grid-snake.svg)

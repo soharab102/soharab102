@@ -19,7 +19,7 @@
 
 * 💻 C++, C#, JavaScript
 * 🌐 HTML, CSS
-* 🎨 Photoshop, Illustrator
+* 🎨 Photoshop, Illustrator, Figma
 
 ---
 

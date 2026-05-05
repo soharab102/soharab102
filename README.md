@@ -17,7 +17,7 @@
 
 ## 🛠️ Skills
 
-* 💻 C++, C#, JavaScript
+* 💻 C++, C#, Java
 * 🌐 HTML, CSS
 * 🎨 Photoshop, Illustrator, Figma
 

@@ -34,6 +34,13 @@
 ![streak](https://streak-stats.demolab.com/?user=soharab102\&theme=tokyonight)
 
 ---
+## 🌐 Connect with Me
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mohammadsoharab0)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/s0harab-h0ssain)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mohammad_soharab_hossain_)
 
 ## 📌 Current Focus
 

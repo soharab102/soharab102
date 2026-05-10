@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Soharab
 
 🎓 CSE Student at AIUB
-💻 Competitive Programmer | Web Developer
+💻 Competitive Programmer | Web Developer & Designer
 🎨 Graphics Designer
 
 ---

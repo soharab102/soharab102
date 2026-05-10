@@ -18,9 +18,11 @@
 
 ## 🛠️ Skills
 
-- 💻 C++, C#, Java  
-- 🌐 HTML, CSS  
-- 🎨 Photoshop, Illustrator, Figma  
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,cs,java,html,css,git,github,vscode,figma,photoshop,illustrator" />
+
+</p>
 
 ---
 

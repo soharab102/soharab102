@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=CSE+Student;Competitive+Programmer;Web+Developer;UI%2FUX+Enthusiast" />
+</p>
 # 👋 Hi, I'm Soharab
 
 🎓 CSE Student at AIUB

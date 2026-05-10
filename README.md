@@ -20,7 +20,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,java,html,css,git,github,vscode,sql,oracle,figma,photoshop,illustrator" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,java,html,css,git,github,vscode,mysql,figma,photoshop,illustrator" />
 
 </p>
 

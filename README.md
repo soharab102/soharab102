@@ -33,7 +33,7 @@
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soharab102&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soharab102&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soharab102&theme=tokyonight" />
 </p>
 
 ---

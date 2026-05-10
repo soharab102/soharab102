@@ -23,11 +23,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soharab102&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-</p>
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soharab102&theme=tokyo-night)
 
 ---
 

@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Soharab Hossain</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=CSE+Student;Competitive+Programmer;Web+Developer+Designer;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=CSE+Student;Competitive+Programmer;Web+Designer+And+Developer;" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=soharab102&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
----
+
 
 ## 🚀 About Me
 
@@ -29,11 +28,19 @@
 
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soharab102&theme=tokyo-night)
 
----
 
+---
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soharab102&layout=donut&theme=tokyonight" />
+</p>
+
+---
 ## 🔥 Streak Stats
 
 ![streak](https://streak-stats.demolab.com/?user=soharab102&theme=tokyonight)
+
 
 ---
 

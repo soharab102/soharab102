@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soharab</h1>
 
 <p align="center">
-  <img src="./Developer.gif" width="700" style="border-radius:15px;" />
-</p>
+<img src="./Developer.gif" width="600"/></p>
 
 
 

@@ -31,12 +31,6 @@
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soharab102&theme=tokyo-night)
 
 
----
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soharab102&theme=tokyonight" />
-</p>
 
 ---
 ## 🔥 Streak Stats

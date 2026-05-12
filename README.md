@@ -1,4 +1,17 @@
+<h1 align="center">Hi 👋, I'm Soharab</h1>
+
+<p align="center">
+  <img src="./Developer.gif" width="700"/>
+</p>
+
+
+
+<!--
 <h1 align="center">Hi 👋, I'm Soharab Hossain</h1>
+-->
+
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Creative+Developer+%26+Tech+Enthusiast;Competitive+Programmer;" />
 </p>

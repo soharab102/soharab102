@@ -64,3 +64,12 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/soharab102/soharab102-snake/output/github-contribution-grid-snake-dark.svg" width="900">
 </p>
+
+
+## 💻 Competitive Programming
+
+<p align="center">
+  <a href="https://codeforces.com/profile/Soharab00">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Soharab00&theme=github_dark" />
+  </a>
+</p>

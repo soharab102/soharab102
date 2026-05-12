@@ -74,12 +74,3 @@
   </a>
 </p>
 -->
-## 💻 Competitive Programming
-
-<p align="center">
-  <img src="https://cf.leed.at?id=Soharab00" />
-</p>
-
-<p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Soharab00&theme=tokyonight" />
-</p>

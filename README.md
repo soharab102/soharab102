@@ -64,4 +64,6 @@
 
 ## 🐍 Contribution Snake
 
-![snake](https://github.com/soharab102/soharab102-snake/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://github.com/soharab102/soharab102-snake/blob/output/github-contribution-grid-snake-dark.svg" width="100%">
+</p>

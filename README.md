@@ -38,9 +38,13 @@
 ---
 ## 🔥 Streak Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soharab102&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soharab102&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=soharab102&show_icons=true&theme=tokyonight)
+
+## 💻 Top Languages
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=soharab102&layout=compact&theme=tokyonight)
 ---
 
 ## 🌐 Connect with Me

@@ -38,9 +38,7 @@
 ---
 ## 🔥 Streak Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soharab102&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soharab102&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=soharab102&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 

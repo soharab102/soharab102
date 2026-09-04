@@ -29,13 +29,6 @@
 
 ---
 
-## 📈 GitHub Activity
-
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soharab102&theme=tokyo-night)
-
-
----
-
 
 ## 🌐 Connect with Me
 

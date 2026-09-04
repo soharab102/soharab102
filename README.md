@@ -34,18 +34,8 @@
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soharab102&theme=tokyo-night)
 
 
-
 ---
-## 🔥 Streak Stats
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=soharab102&show_icons=true&theme=tokyonight)
-
-## 💻 Top Languages
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=soharab102&layout=compact&theme=tokyonight)
----
 
 ## 🌐 Connect with Me
 

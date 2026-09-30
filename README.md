@@ -33,7 +33,7 @@
 - 💡 I build things where design meets code
 
 ---
-<!--
+
 ## 🛠️ My Workspace
 
 <p align="center">
@@ -41,7 +41,7 @@
 </p>
 
 ---
--->
+<!--
 ## 🛠️ My Workspace
 
 <h3 align="center">💻 Languages</h3>
@@ -58,6 +58,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ps,ai&theme=dark" />
 </p>
+-->
 
 ---
 

@@ -30,11 +30,30 @@
 - 💡 I build things where design meets code
 
 ---
-
+<!--
 ## 🛠️ My Workspace
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,cs,java,html,css,javascript,git,github,vscode,mysql,figma,photoshop,illustrator" />
+</p>
+
+---
+-->
+## 🛠️ My Workspace
+
+<h3 align="center">💻 Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,java,js&theme=dark" />
+</p>
+
+<h3 align="center">🌐 Web</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql&theme=dark" />
+</p>
+
+<h3 align="center">🧰 Tools & Design</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ps,ai&theme=dark" />
 </p>
 
 ---

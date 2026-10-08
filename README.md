@@ -35,7 +35,7 @@
 ## 🛠️ My Workspace
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,java,html,css,javascript,git,github,vscode,mysql,figma,photoshop,illustrator" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,java,html,css,javascript,typescript,git,github,vscode,mysql,figma,photoshop,illustrator" />
 </p>
 
 ---

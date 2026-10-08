@@ -1,7 +1,7 @@
 <!-- HEADER BANNER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Soharab&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Design%20meets%20code&descAlignY=58&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,200&height=200&section=header&text=Soharab&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Design%20meets%20code&descAlignY=58&descSize=20" width="100%"/>
 </p>
 
 
